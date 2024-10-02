@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" modified="2024-07-03T10:27:12.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LmnZRDfLSz7BxEmgFGsG" version="24.6.4" type="device">
+  <diagram name="Page-1" id="21ORsQWHsIKUVIGTKt5p">
+    <mxGraphModel dx="674" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-85" value="1.0" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="160" y="50" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-86" value="Pretraga&amp;nbsp; dostupnih natječaja" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;fontFamily=Helvetica;fontStyle=0" parent="k6NDIBWFTyBHspbXZSGC-85" vertex="1">
+          <mxGeometry y="26" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-87" value="1.1" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="160" y="250" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-88" value="Odabir natječaja" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;fontFamily=Helvetica;fontStyle=0" parent="k6NDIBWFTyBHspbXZSGC-87" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-89" value="2.0" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="350" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-90" value="Prijava na natječaj" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;fontFamily=Helvetica;fontStyle=0" parent="k6NDIBWFTyBHspbXZSGC-89" vertex="1">
+          <mxGeometry y="26" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-91" value="Korisnik" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12;align=center;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="360" y="170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontStyle=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="k6NDIBWFTyBHspbXZSGC-91" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="170" as="sourcePoint" />
+            <mxPoint x="300" y="66.79999999999994" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="160" />
+              <mxPoint x="450" y="130" />
+              <mxPoint x="450" y="67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-93" value="Pristup sustavu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontStyle=0" parent="k6NDIBWFTyBHspbXZSGC-92" vertex="1" connectable="0">
+          <mxGeometry x="-0.1717" y="1" relative="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-96" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontStyle=0" parent="1" target="k6NDIBWFTyBHspbXZSGC-87" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="120" as="sourcePoint" />
+            <mxPoint x="460" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-97" value="Detalji natječaja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontStyle=0" parent="k6NDIBWFTyBHspbXZSGC-96" vertex="1" connectable="0">
+          <mxGeometry x="-0.2519" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.506;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontStyle=0" parent="1" source="k6NDIBWFTyBHspbXZSGC-88" target="k6NDIBWFTyBHspbXZSGC-90" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+            <mxPoint x="460" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="398" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-99" value="Podaci o prijavi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontStyle=0" parent="k6NDIBWFTyBHspbXZSGC-98" vertex="1" connectable="0">
+          <mxGeometry x="-0.2987" relative="1" as="geometry">
+            <mxPoint y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-100" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontStyle=0" parent="1" source="k6NDIBWFTyBHspbXZSGC-89" target="k6NDIBWFTyBHspbXZSGC-91" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+            <mxPoint x="460" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6NDIBWFTyBHspbXZSGC-101" value="Potvrda prijave" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontStyle=0" parent="k6NDIBWFTyBHspbXZSGC-100" vertex="1" connectable="0">
+          <mxGeometry x="0.2154" y="-2" relative="1" as="geometry">
+            <mxPoint y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5yp5b8ZGeFaidCORp6AO-2" value="3.0" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5yp5b8ZGeFaidCORp6AO-3" value="Pregled statusa vlastite prijave" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="5yp5b8ZGeFaidCORp6AO-2">
+          <mxGeometry y="26" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="5yp5b8ZGeFaidCORp6AO-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.013;entryY=0.198;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;entryPerimeter=0;" edge="1" parent="1" source="k6NDIBWFTyBHspbXZSGC-89" target="5yp5b8ZGeFaidCORp6AO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

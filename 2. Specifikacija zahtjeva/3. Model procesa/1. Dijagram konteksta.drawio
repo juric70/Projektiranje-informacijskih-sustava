@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2024-07-02T17:39:41.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nzT6eZOuzXf3hqm9Wpce" version="24.6.4" type="device">
+  <diagram name="Page-1" id="21ORsQWHsIKUVIGTKt5p">
+    <mxGraphModel dx="713" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-2" value="Ured za zapošljavanje HNŽ" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="340" y="230" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0hRfQC4m2FfKHqGu2-95-3" target="0hRfQC4m2FfKHqGu2-95-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-3" value="Korisnik" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-10" value="Korisnički podaci,&lt;br&gt;prijava na natječaje,&amp;nbsp;&lt;div&gt;komunikacija s poslodavcem&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="250" y="130" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="0hRfQC4m2FfKHqGu2-95-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="250" as="sourcePoint" />
+            <mxPoint x="444" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-14" value="Podaci o korisniku,&lt;br&gt;natječajima i &lt;br&gt;izvještajima" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-15" value="Administrator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="280" as="sourcePoint" />
+            <mxPoint x="340" y="279.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-17" value="Upravljanje platformom,&lt;br&gt;upravljanje korisnicima &lt;br&gt;firmama, natječajima&lt;br&gt;i izvještajima&lt;br&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="220" y="200" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-18" value="Administracija ureda za zapošljavanje" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="379" y="430" as="sourcePoint" />
+            <mxPoint x="379" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;pregled i upravljanje izvještajima&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="360" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-25" value="&lt;div style=&quot;text-align: center;&quot;&gt;kreiranje izvještaja&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="409" y="360" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-27" value="Firma" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.037;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="0hRfQC4m2FfKHqGu2-95-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="275" as="sourcePoint" />
+            <mxPoint x="590" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-29" value="&lt;div style=&quot;text-align: center;&quot;&gt;Korisnički podaci, kreiranje i upravljanje natječajima, kolunikacija s nezaposlenima&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="220" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" edge="1" source="0hRfQC4m2FfKHqGu2-95-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="300" as="sourcePoint" />
+            <mxPoint x="435" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hRfQC4m2FfKHqGu2-95-33" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Podaci o korisniku,&lt;/span&gt;&lt;br style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;nezaposlenima i&lt;/span&gt;&lt;br style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;izvještajima&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="300" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
